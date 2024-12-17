@@ -5,7 +5,7 @@ This project extends and optimizes the YOLO series for object detection by integ
 
 ## Module Descriptions
 
-Visdrone2019   in VOCdevkit\images
+The VisDrone2019 dataset is located in dataset/VOCdevkit.
 
 1. **MASPPF Module**  
    - **Functionality**: Implements a multi-scale adaptive feature fusion pyramid to improve object detection.  
