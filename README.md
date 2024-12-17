@@ -22,6 +22,10 @@ The VisDrone2019 dataset is located in dataset/VOCdevkit.
 4. **PURN Pruning Module**  
    - **Functionality**: Prunes the YOLO model to reduce computational costs while maintaining performance.  
    - **Location**: `ultralytics-prune/`
+
+5. **Improved Weights**  
+   - The final improved model weights after integrating the above modules and pruning are saved as:  
+     **`best.pt`** 
   
    - 
 lamp
